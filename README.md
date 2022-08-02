@@ -28,10 +28,10 @@
 ##
 
 <div>
-  <a href = "mailto: iuryoliqueiroz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank</a>
   <a href="------" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/iury_oli/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="@Scroub_Oli" target="_blank"><img scr="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <a href="https://t.me/Scroub_Oli" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=88997635224" alt="Whats" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" ></a>
  
 ![Snake animation](https://github.com/Douglas10Holanda/Douglas10Holanda/blob/output/github-contribution-grid-snake.svg)
 
