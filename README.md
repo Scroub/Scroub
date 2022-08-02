@@ -1,4 +1,4 @@
-### Eae! Eu me chamo Iury ✌
+### Eae! Meu nome é Iury ✌
 - 👤 21 anos de idade
 - 🎓 Sistemas de Informação - Universidade Federal do Ceará
 - 💻 Atualmente estudando: Javascript 
