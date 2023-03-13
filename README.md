@@ -2,7 +2,7 @@
 - 👤 21 anos de idade
 - 🎓 Sistemas de Informação - Universidade Federal do Ceará
 - 💻 Atualmente estudando: Javascript 
-- 💼 E-mail para contato: iuryoliqueiroz@gmail.com
+- 💼 E-mail para contato: git.iury@gmail.com
 - 📲 Telefone: (88) 99763-5224
 
 <div align="center">
