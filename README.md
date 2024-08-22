@@ -1,5 +1,5 @@
 ### Eae! Meu nome é Iury ✌
-- 👤 21 anos de idade
+- 👤 23 anos de idade
 - 🎓 Sistemas de Informação - Universidade Federal do Ceará
 - 💻 Atualmente estudando: Javascript 
 - 💼 E-mail para contato: git.iury@gmail.com
